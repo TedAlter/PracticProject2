@@ -1,0 +1,12 @@
+# Godot system files
+.import/
+export.cfg
+export_presets.cfg
+.godot/
+
+# Caches and temporary files
+*.tmp
+*.log
+
+# Compiled files (если используешь C#)
+*.mono/
